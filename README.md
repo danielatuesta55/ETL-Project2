@@ -39,7 +39,7 @@ I hope you find our work not only to be complete but to display all the knowledg
 
 Happiness, a word that evokes several emotions in humans. It's that feeling most of us are seeking. But what if there is a shortcut to experiencing this emotion. In this project, we were able to look at what country is the happiest and what the total population is per country. Yes, that's right, the number of people around you might be a predominant factor in the level of happiness one experiences, or so we think.
 
-To do this, we pulled two data sets, one describing each country's happiness level and the other that contained the population amount per country. We then merged these two data sets to create on master data set on our database for future analysis. When then proceeded to analyze the results to identify if population has a correlation with the happiness index a country has. 
+To do this, we pulled two data sets, one describing each country's happiness level and the other that contained the population amount per country. We then merged these two data sets to create on master data set on our database for future analysis. When then proceeded to analyze the results to identify if population has a correlation with the happiness index a country has.
 
 ![Happinness](Images/2.png)
 
@@ -293,19 +293,16 @@ On this section you can find screen shots of our step by step described on the p
 
 ##### Step 10
 
-![Step ten](Images/step10.png)
+![Step ten](Images/pt.png)
 
-![Step ten](Images/step10.1.png)
+##### Step 11
 
-##### Step 11 & 12
+![Step ten](Images/wht.png)
 
-![Step eleven](Images/step11.png)
 
-##### Final Data Base Tables
 
-![wh](Images/wht.png)
+##### Final Data Base Table
 
-![p](Images/pt.png)
 
 ![merged](Images/mt.png)
 
