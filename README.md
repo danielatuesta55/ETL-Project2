@@ -28,6 +28,7 @@ I hope you find our work not only to be complete but to display all the knowledg
 * *Program files*: This contains the queries that we used for our project in Postgress
 
 3. **README.md**: it's the current file you are reading. We strongly suggest navigating through it and look at the project's objective solution and analysis.
+4. **Project_Requirements**: You will find the requierments stablished by the Northwestern Data Visualization Boot camp. 
 
 I hope you find our work not only to be complete but to display all the knowledge learned throughout this portion of the Data Science Bootcamp at Northwestern University.
 
@@ -60,7 +61,18 @@ To do this, we pulled two data sets, one describing each country's happiness lev
 
 #### Project's Documentation
 
-On the following session you will encounter the documentation for our ETL process. This means we will go over step by step.
+On the following session you will encounter the documentation for our ETL process. This means we will go over step by step. 
+##### Variable defenitions of the data sets
+
+1. Rank: This variable was created to show case the positon of a country based on the ladder score. The higher the ladder score the better ranking a country got. As an example, Finland was the country that had the highest ladder score so it was ranked number 1 in the ranking scale, showcasing that it was the country with the highest happiness reported in the data set for the year 2019.
+2. Ladder_score: Cantril Ladder is a measure of life satisfaction.
+3. Gdp_per_capita: The gross domestic product is the monetary value of all finished goods and services made within a country during a specific period
+4. Social_support : The extent to which Social support contributed to the calculation of the Happiness Score.
+5. Healthy_life_expectancy: The extent to which healthy life expectancy contributed to the calculation of the Happiness Score
+6. Freedom_life_choices: The extent to which Freedom contributed to the calculation of the Happiness Score.
+7. Generosity: The extent to which Generosity contributed to the calculation of the Happiness Score.
+8. Perception_corruption: The extent to which Perception of Corruption contributes to Happiness Score.
+9. Ladder_score_dystopia: Dystopia is an imaginary country that has the world’s least-happy people.
 
 ##### Step 1:
 
